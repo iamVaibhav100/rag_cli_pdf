@@ -1,0 +1,12 @@
+*.pyc
+.DS_Store
+backup
+chroma
+data
+share
+include
+Lib
+Scripts
+pyvenv.cfg
+.idea
+__pycache__
